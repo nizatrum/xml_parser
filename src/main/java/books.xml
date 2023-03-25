@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="books.xsd">
-    <book>
+    <book id="1">
         <title>Атлант расправил плечи</title>
         <author>Айн Ренд</author>
         <direction>Саморазвитие</direction>
         <status>Прочтено</status>
         <countPage>1408</countPage>
     </book>
-    <book>
+    <book id="2">
         <title>Гарри Поттер</title>
         <author>Дж. К. Роулинг</author>
         <direction>Фантастика</direction>

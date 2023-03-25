@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="cards.xsd">
+  <!--1 or more repetitions:-->
+  <card>
+    <number>1234 1234 1234 1234</number>
+    <paymentSystem>MIR</paymentSystem>
+    <releases>SBERBANK</releases>
+    <owner>Alexander</owner>
+  </card>
+  <card>
+    <number>3141 5322 0594 1194</number>
+    <paymentSystem>VISA</paymentSystem>
+    <releases>ALFA</releases>
+    <owner>Alex</owner>
+  </card>
+  <card>
+    <number>9491 9414 4341 5432</number>
+    <paymentSystem>MASTERCARD</paymentSystem>
+    <releases>TINKOFF</releases>
+    <owner>Bob</owner>
+  </card>
+</cards>
