@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <title>Some name book with number № 1</title>
+        <author>Some author book with number № 1</author>
+        <countPage>1341</countPage>
+    </book>
+    <book>
+        <title>Some name book with number № 2</title>
+        <author>Some author book with number № 2</author>
+        <countPage>1342</countPage>
+    </book>
+    <book>
+        <title>Some name book with number № 3</title>
+        <author>Some author book with number № 3</author>
+        <countPage>1343</countPage>
+    </book>
+</books>
