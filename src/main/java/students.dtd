@@ -1,0 +1,11 @@
+<!DOCTYPE students [
+        <!ELEMENT students (student*)>
+        <!ELEMENT student (name, phoneNumber, country, city, street)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT phoneNumber (#PCDATA)>
+        <!ELEMENT country (#PCDATA)>
+        <!ELEMENT city (#PCDATA)>
+        <!ELEMENT street (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>
+        <!ATTLIST student id CDATA #REQUIRED>
+        ]>
