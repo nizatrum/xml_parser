@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<employee>
+    <name>Bob</name>
+    <age>21</age>
+    <sex>mail</sex>
+    <number>472841234</number>
+    <mail>asd@dad.ew</mail>
+    <city>Denver</city>
+</employee>

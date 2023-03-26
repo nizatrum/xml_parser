@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<persons>
+    <person login="rass" faculty="MHT">
+        <name>Rassel</name>
+        <telephone>12415</telephone>
+        <address>
+            <country>USA</country>
+            <city>New York</city>
+            <street>3-th avenue</street>
+        </address>
+    </person>
+    <person login="grg" faculty="INF">
+        <name>George</name>
+        <telephone>44353352</telephone>
+        <address>
+            <country>Italy</country>
+            <city>Milan</city>
+            <street>Palanis</street>
+        </address>
+    </person>
+</persons>
