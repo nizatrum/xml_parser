@@ -2,6 +2,7 @@
 
 <persons>
     <person login="rass" faculty="MHT">
+        <login>jfofjkfo</login>
         <name>Rassel</name>
         <telephone>12415</telephone>
         <address>
@@ -11,6 +12,7 @@
         </address>
     </person>
     <person login="grg" faculty="INF">
+        <login>asfqfd</login>
         <name>George</name>
         <telephone>44353352</telephone>
         <address>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <login>neo21</login>
+        <name>Timur</name>
+        <faculty>MehMat</faculty>
+        <address>
+            <country>Russia</country>
+            <city>Saratov</city>
+            <street>Vavilova</street>
+        </address></person>
+    <person>
+        <login>fnafe</login>
+        <name>Finn</name>
+        <faculty>History</faculty>
+        <address>
+            <country>Canada</country>
+            <city>Montreal</city>
+            <street>Nooberg street</street>
+        </address>
+    </person>
+</persons>
